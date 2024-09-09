@@ -1,0 +1,23 @@
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.kanban-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
+
+.kanban-column {
+  width: 30%;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-radius: 8px;
+}
+
+.kanban-column h2 {
+  text-align: center;
+}
